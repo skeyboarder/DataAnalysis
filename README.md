@@ -39,12 +39,33 @@ Practice task for course(https://compscicenter.ru/courses/data-mining-python/201
 
 
 > Task: 
-Build three models to predict the price of apartments:
- 
-1. Based on the number of meters;
-2. Based on the distance to the metro;
-3. Based on square meters & metro distance;
+> Build three models to predict the price of apartments:
+> 
+> 1. Based on the number of meters;
+> 2. Based on the distance to the metro;
+> 3. Based on square meters & metro distance;
 
-Further:
-1. For cases 1 and 2, plot the baseline and projected values.
-2. Compare baseline and predicted values using quality metrics (all 12 metrics mentioned in the presentation for all models).
+> Further:
+> 1. For cases 1 and 2, plot the baseline and projected values.
+> 2. Compare baseline and predicted values using quality metrics (all 12 metrics mentioned in the presentation for all models).
+
+## Ninth HW (Forecasting based on a regression model with seasonal indicator (fictitious, structural) variables
+> Video: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3921/
+
+> In the file electric_power.xml - data on the hourly electricity consumption for two years.
+Aggregate the data to daily consumption. Forecast consumption 7 days ahead. Evaluate the quality of the forecast using a couple of metrics.
+Show the result visually on a graph.
+
+## Tenth HW (Classification and regression trees)
+> Video: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3922/
+
+> Task: 
+> 1. Build a classification tree for a dataset from an article.
+> 2. Assess the quality of the classification.
+> 3. Assess the significance of the variables.
+
+## Eleventh HW (Random forest)
+> Videos: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3953/
+> https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3957/
+
+> Task: Apply RandomForest. Assess the classification accuracy.
