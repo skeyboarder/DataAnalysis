@@ -19,3 +19,16 @@ Practice task for course(https://compscicenter.ru/courses/data-mining-python/201
 ## Seventh HW (A / B testing. Proportion test.)
 > Video: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3860/
 > Task: The folder contains the texts of two plays by Shakespeare, very famous, but different translators. What will A / B testing show?
+## Eight HW (Linear regression).
+> Video: https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3900/
+> Task: 
+Build three models to predict the price of apartments:
+ 
+1.Based on the number of meters;
+2. based on the distance to the metro;
+3.Based on square meters & metro distance;
+
+Further:
+1.For cases 1 and 2, plot the baseline and projected values.
+2. Compare baseline and predicted values using quality metrics
+    (all 12 metrics mentioned in the presentation for all models).
